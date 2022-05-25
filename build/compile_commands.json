@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/nguyenhuusang/Documents/repo/Hospital/build",
+  "command": "/opt/local/bin/clang++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_IOSTREAMS_DYN_LINK -DBOOST_IOSTREAMS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/Users/nguyenhuusang/Documents/repo/Hospital -isystem /usr/local/include  -std=c++17 -Xpreprocessor -fopenmp -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/Hospital.dir/main.cpp.o -c /Users/nguyenhuusang/Documents/repo/Hospital/main.cpp",
+  "file": "/Users/nguyenhuusang/Documents/repo/Hospital/main.cpp"
+}
+]
